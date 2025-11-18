@@ -1,0 +1,19 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "practising my backend skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh6282283/Backend-dev.git"
+  },
+  "author": "Dinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh6282283/Backend-dev/issues"
+  },
+  "homepage": "https://github.com/dinesh6282283/Backend-dev#readme"
+}
